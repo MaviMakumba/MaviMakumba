@@ -61,10 +61,10 @@
 <br/>
 
 ### 📈 GitHub Stats / İstatistiklerim
-<p align="center">
-  <img src="https://github.com/MaviMakumba/MaviMakumba/output/github-contribution-grid-snake.svg?sanitize=true" style="display:none;" alt="" /> <img src="https://github-readme-stats.vercel.app/api?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true" alt="Eren's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+
+[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/MaviMakumba)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/MaviMakumba)
 
 <br/>
 
