@@ -32,24 +32,28 @@
 
 📰 **[NexStream-News-Engine](https://github.com/MaviMakumba/nexstream-news-engine)**
 > **[EN]** Working on a real-time news streaming engine supported by Kafka and Docker architecture.
+> 
 > **[TR]** Kafka ve Docker mimarisiyle desteklenen, gerçek zamanlı haber akış motoru üzerinde çalışıyorum.
 
 <br/>
 
 🏋️ **[GymApp](https://github.com/MaviMakumba/gymapp)**
 > **[EN]** Developing a comprehensive gym management system based on ASP.NET Core MVC.
+> 
 > **[TR]** ASP.NET Core MVC tabanlı, kapsamlı bir spor salonu yönetim sistemi geliştiriyorum.
 
 <br/>
 
 🚨 **[AfetBilgilendirmeSistemi](https://github.com/MaviMakumba/AfetBilgilendirmeSistemi)**
 > **[EN]** Developed an IoT and mobile integrated Disaster Information System using NodeMCU and NFC technologies.
+> 
 > **[TR]** NodeMCU, NFC ve mobil teknolojiler kullanarak IoT entegrasyonlu bir Afet Bilgilendirme Sistemi geliştirdim.
 
 <br/>
 
 ⚽ **[Ust_Direk](https://github.com/MaviMakumba/Ust_Direk)**
 > **[EN]** Built a sports/stadium database management system using C# Windows Forms and PostgreSQL.
+> 
 > **[TR]** C# Windows Forms ve PostgreSQL kullanarak spor ve stadyum odaklı bir veritabanı yönetim projesi oluşturdum.
 
 <br/>
