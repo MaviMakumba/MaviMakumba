@@ -62,9 +62,10 @@
 
 ### 📈 GitHub Stats / İstatistiklerim
 
-[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/MaviMakumba)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/MaviMakumba)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=86400&v=1" alt="Eren's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaviMakumba&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400&v=1" alt="Top Languages" />
+</p>
 
 <br/>
 
